@@ -57,7 +57,7 @@ on:
         - XY-C1
         - ZTE-E8820S
         - ZTE-E8820V2
-        default: K2P
+        default: RM2100
       release:
         type: boolean
         description: 'upload to release'
